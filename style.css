@@ -1,0 +1,16 @@
+.imagen-personaje{
+    height: 20rem;
+    width: 14rem;
+}
+
+.molde-personaje{
+    width: auto;
+}
+
+.icono-stado{
+    font-size: 3rem;
+}
+
+.molde-citas{
+    width: 100%;
+}
